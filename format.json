@@ -1,0 +1,138 @@
+{
+    "metaData": {
+        "template": "",
+        "role": "",
+        "logo": "",
+        "includeLinks": "",
+        "includeReferences": "",
+        "technologies": [
+            {
+                "name": "",
+                "years": ""
+            }
+        ]
+    },
+    "contact": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "phone": "",
+        "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+        },
+        "websites": [
+            {
+                "name": "",
+                "url": ""
+            }
+        ]
+    },
+    "introduction": {
+        "objective": "",
+        "profile": ""
+    },
+    "projects": [
+        {
+            "title": "",
+            "role": "",
+            "description": "",
+            "technologies": [
+                {
+                    "name": "",
+                    "years": ""
+                }
+            ],
+            "start": "",
+            "end": "",
+            "link": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "",
+            "degree": "",
+            "field": "",
+            "location": "",
+            "start": "",
+            "end": "",
+            "gpa": "",
+            "honors": [
+                ""
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "description": "",
+            "proficiency": "",
+            "years": "",
+            "technologies": [
+                {
+                    "name": "",
+                    "years": ""
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "name": "",
+            "technologies": [
+                {
+                    "name": "",
+                    "years": ""
+                }
+            ],
+            "organization": "",
+            "issued": "",
+            "expiration": "",
+            "link": ""
+        }
+    ],
+    "relevantExperiences": [
+        {
+            "description": "",
+            "relatedBy": [
+                {
+                    "role": "",
+                    "technologies": [
+                        {
+                            "name": "",
+                            "years": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "references": [
+        {
+            "relationship": "",
+            "organization": "",
+            "contact": {
+                "firstName": "",
+                "lastName": "",
+                "email": "",
+                "phone": "",
+                "address": {
+                    "street": "",
+                    "city": "",
+                    "state": "",
+                    "zip": "",
+                    "country": ""
+                },
+                "websites": [
+                    {
+                        "name": "",
+                        "url": ""
+                    }
+                ]
+            }
+        }
+    ]
+}
